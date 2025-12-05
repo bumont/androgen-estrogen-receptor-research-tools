@@ -23,6 +23,7 @@ This repository collects:
 The aim is to make endocrine concepts **more transparent and reproducible** for researchers, developers and educators.
 
 ---
+Further information & Sourcing : [Enclomiphene in the UK](https://maxmusclelabs.com/buy-enclomiphene-uk/)
 
 ## 🧰 Included tools (initial release)
 
@@ -79,4 +80,3 @@ Currently the scripts only require Python ≥3.9 and `matplotlib` for optional p
 ```bash
 pip install -r requirements.txt
 
-Further information & Sourcing : [Enclomiphene in the UK](https://maxmusclelabs.com/buy-enclomiphene-uk/)
