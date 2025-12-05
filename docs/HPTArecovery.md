@@ -61,6 +61,8 @@ Potential features for a future script:
 
 This would lend itself well to a simple line chart generated with Python and `matplotlib`.
 
+Future development : Modelling[ UK based SARMs research](https://maxmusclelabs.com/buy-sarms-uk) using the same concept.
+
 ---
 
 ## 🧩 Next steps
@@ -81,3 +83,5 @@ No. It’s intentionally generic and describes a pattern rather than a specific 
 
 **Can I help implement this?**  
 Yes. Contributions are welcome — especially if you have experience with pharmacometrics, endocrine modelling, or numerical simulation.
+
+
