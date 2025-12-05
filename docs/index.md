@@ -85,7 +85,6 @@ For a broader explanatory article on enclomiphene mechanisms and SERM activity i
 
 **👉[ Enclomiphene Research Overview](https://maxmusclelabs.com/buy-enclomiphene-uk/)
 
-(Replace this URL with your final enclomiphene landing page.)
 
 ---
 
