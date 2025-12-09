@@ -1,0 +1,8 @@
+site_name: SARMs & Endocrine Research Docs
+
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
+  - References: references.md
